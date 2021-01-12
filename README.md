@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm Ivan from Kyiv.
+
+I am Frontend developer (JavaScript, React)
+
+### My projects
+- [Shelter](https://buiiz-shelter.netlify.app/pages/main/index.html)
+- [Momentum](https://buiiz-momentum.netlify.app/)
+- [Virtual Keyboard](https://buiiz-virtual-keyboard.netlify.app/)
+- [CSS Game](https://buiiz-css.netlify.app/)
+- [Gem Puzzle](https://buiiz-gem-puzzle.netlify.app/)
+
+### Get in touch 📫
+- Telegram: [@buiiz](https://t.me/buiiz)
+
 <!--
 **buiiz/buiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
